@@ -27,3 +27,5 @@ Information about  our organization:
 ![SS_5](https://user-images.githubusercontent.com/113533436/190199563-086d43a6-2822-42f5-a6e8-4144f77dd11e.png)
 
 Link to the website:
+
+https://nice-grass-0623d9210.1.azurestaticapps.net
